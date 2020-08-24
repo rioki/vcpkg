@@ -1,0 +1,4 @@
+Source: litehtml
+Version: 0.5
+Description: litehtml is the lightweight HTML rendering engine with CSS2/CSS3 support.
+Build-Depends: gumbo
