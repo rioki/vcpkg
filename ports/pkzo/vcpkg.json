@@ -1,0 +1,24 @@
+{
+  "name": "pkzo",
+  "version-string": "0.1.1",
+  "description": "pkzo game engine",
+  "homepage": "https://github.com/rioki/pkzo",
+  "dependencies": [
+    "assimp",
+    "bullet3",
+    "fkyaml",
+    "freeimage",
+    "freetype",
+    "glew",
+    "glm",
+    "libiconv",
+    "magic-enum",
+    "nlohmann-json",
+    "sdl3",
+    "rsig",
+    "tinyformat",
+    "vcpkg-cmake",
+    "vcpkg-cmake-config"
+  ],
+  "supports": "windows & !uwp"
+}
