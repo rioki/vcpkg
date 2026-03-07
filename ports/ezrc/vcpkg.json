@@ -1,0 +1,11 @@
+{
+  "name": "ezrc",
+  "version": "0.5.0",
+  "description": "ezrc is a command line utility that packs files into C++ source code.",
+  "dependencies": [
+    "fkyaml",
+    "freeimage",
+    "vcpkg-cmake",
+    "vcpkg-cmake-config"
+  ]
+}
