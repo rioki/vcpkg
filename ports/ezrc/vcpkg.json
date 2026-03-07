@@ -4,7 +4,7 @@
   "description": "ezrc is a command line utility that packs files into C++ source code.",
   "dependencies": [
     "fkyaml",
-    "freeimage",
+    "tinyformat",
     "vcpkg-cmake",
     "vcpkg-cmake-config"
   ]
